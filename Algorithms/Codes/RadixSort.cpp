@@ -2,6 +2,18 @@
 #include<vector>
 using namespace std;
 
+int getmax(int arr[], int n){
+    int mx = arr[0];
+    for(int i = 1; i < n; i++){
+        if(arr[i] > mx){
+            mx = arr[i];
+        }
+    }
+    return mx;
+}
+
+void countingsort(int arr[], int n, int exp);
+
 void radixsort(int arr[],int n){
     int m = getmax(arr, n);
     for(int exp = 1; m/exp > 0; exp *= 10){
