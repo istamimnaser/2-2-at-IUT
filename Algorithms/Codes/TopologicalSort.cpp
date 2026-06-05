@@ -25,3 +25,5 @@ void topologicalSort(vector<vector<int>>&graph, int start){
     while(!st.empty()){
         cout<<st.top()<<" ";
         st.pop();
+
+    }}
