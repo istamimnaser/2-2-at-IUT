@@ -44,7 +44,7 @@ BEGIN
         RAISE NOTICE 'Average Score: %', v_avg_score;
         RAISE NOTICE 'Tier: %', v_tier;
         RAISE NOTICE 'Inserted: % row', v_rows_inserted;
-        RAISE NOTICE '-------------------------';
+        
         
     END LOOP;
     
