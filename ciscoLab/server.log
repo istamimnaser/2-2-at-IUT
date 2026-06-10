@@ -1,0 +1,50 @@
+2026-06-09 11:37:12 - [UDP_SERVER] - INFO - Server started on port 5005
+2026-06-09 11:38:05 - [UDP_SERVER] - INFO - Server started on port 5005
+2026-06-09 11:38:37 - [UDP_SERVER] - INFO - Server started on port 5005
+2026-06-09 11:39:24 - [UDP_SERVER] - INFO - Server started on port 5005
+2026-06-09 11:39:49 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 60614) containing: Hello UDP
+2026-06-09 11:39:49 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 60614)
+2026-06-09 11:39:49 - [UDP_SERVER] - INFO - Received Packet 1 from ('127.0.0.1', 60614) containing: Testing Reliability
+2026-06-09 11:39:49 - [UDP_SERVER] - INFO - Sent ACK for Packet 1 to ('127.0.0.1', 60614)
+2026-06-09 11:39:49 - [UDP_SERVER] - INFO - Received Packet 2 from ('127.0.0.1', 60614) containing: IUT CSE 4512
+2026-06-09 11:39:49 - [UDP_SERVER] - INFO - Sent ACK for Packet 2 to ('127.0.0.1', 60614)
+2026-06-09 11:39:49 - [UDP_SERVER] - INFO - Received Packet 3 from ('127.0.0.1', 60614) containing: Concurrent Threading
+2026-06-09 11:39:49 - [UDP_SERVER] - INFO - Sent ACK for Packet 3 to ('127.0.0.1', 60614)
+2026-06-09 11:39:49 - [UDP_SERVER] - INFO - Received Packet 4 from ('127.0.0.1', 60614) containing: End of Lab
+2026-06-09 11:39:49 - [UDP_SERVER] - INFO - Sent ACK for Packet 4 to ('127.0.0.1', 60614)
+2026-06-09 11:41:25 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 61669) containing: Ithun: hello
+2026-06-09 11:41:25 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 61669)
+2026-06-09 11:41:27 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 61669) containing: Ithun: hello
+2026-06-09 11:41:27 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 61669)
+2026-06-09 11:41:28 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 61669) containing: Ithun: hello
+2026-06-09 11:41:28 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 61669)
+2026-06-09 11:42:12 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 61669) containing: Ithun: ami gay
+2026-06-09 11:42:12 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 61669)
+2026-06-09 11:42:13 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 61669) containing: Ithun: ami gay
+2026-06-09 11:42:13 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 61669)
+2026-06-09 11:42:14 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 61669) containing: Ithun: ami gay
+2026-06-09 11:42:14 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 61669)
+2026-06-09 11:42:38 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 50178) containing: ithun: ami gay
+2026-06-09 11:42:38 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 50178)
+2026-06-09 11:42:39 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 50178) containing: ithun: ami gay
+2026-06-09 11:42:39 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 50178)
+2026-06-09 11:42:41 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 50178) containing: ithun: ami gay
+2026-06-09 11:42:41 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 50178)
+2026-06-09 11:42:46 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 50178) containing: ithun: ami gay
+2026-06-09 11:42:46 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 50178)
+2026-06-09 11:42:47 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 50178) containing: ithun: ami gay
+2026-06-09 11:42:47 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 50178)
+2026-06-09 11:42:48 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 50178) containing: ithun: ami gay
+2026-06-09 11:42:48 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 50178)
+2026-06-09 11:43:39 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 54402) containing: madamji: hello ithun
+2026-06-09 11:43:39 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 54402)
+2026-06-09 11:43:41 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 54402) containing: madamji: hello ithun
+2026-06-09 11:43:41 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 54402)
+2026-06-09 11:43:42 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 54402) containing: madamji: hello ithun
+2026-06-09 11:43:42 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 54402)
+2026-06-09 11:43:48 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 50178) containing: ithun: hello madamji
+2026-06-09 11:43:48 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 50178)
+2026-06-09 11:43:49 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 50178) containing: ithun: hello madamji
+2026-06-09 11:43:49 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 50178)
+2026-06-09 11:43:51 - [UDP_SERVER] - INFO - Received Packet 0 from ('127.0.0.1', 50178) containing: ithun: hello madamji
+2026-06-09 11:43:51 - [UDP_SERVER] - INFO - Sent ACK for Packet 0 to ('127.0.0.1', 50178)
