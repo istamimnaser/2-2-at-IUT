@@ -13,8 +13,7 @@ struct Edge {
 };
 
 
-void bellmanFord(int n, int s, const vector<Edge>& edges, const vector<vector<int>>& adj, 
-                 vector<long long>& dist, vector<bool>& in_neg_cycle) {
+void bellmanFord(int n, int s, const vector<Edge>& edges, const vector<vector<int>>& adj, vector<long long>& dist, vector<bool>& in_neg_cycle) {
     
   
     dist.assign(n + 1, INF);
@@ -48,7 +47,7 @@ void bellmanFord(int n, int s, const vector<Edge>& edges, const vector<vector<in
     }
 
 
-    while (!q.empty()) {
+    while (!q.empty()) {0
         int u = q.front();
         q.pop();
 
